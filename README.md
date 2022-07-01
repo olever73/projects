@@ -57,3 +57,4 @@ Reply to chat: what is the relationship between Building and Apartment & Apartme
 # buildings_api
 # buildings_owners_api
 # studetsandcourses
+# studetsandcourses
