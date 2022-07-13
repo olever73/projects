@@ -4,10 +4,9 @@ import de.telran.management_system.dto.ProjectRequestDTO;
 import de.telran.management_system.dto.ProjectResponseDTO;
 
 public interface ProjectService {
-
     void createProject(ProjectRequestDTO request);
 
-    ProjectResponseDTO findAll(Long Id);
+    ProjectResponseDTO findAll(Long Id, int pageSize, int pageNumber);
 
 
 
