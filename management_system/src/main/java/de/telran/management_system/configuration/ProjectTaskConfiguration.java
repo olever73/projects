@@ -12,6 +12,6 @@ import java.util.Optional;
 public class ProjectTaskConfiguration {
     @Bean
     public AuditorAware<String> auditorAware() {
-        return Optional::empty;
+        return null;
     }
 }
