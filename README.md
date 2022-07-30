@@ -52,9 +52,4 @@ Building request has a number of apartments to create (?apartmentsCount=3)
 Apartments should be created automatically on a building creation.
 Reply to chat: what is the relationship between Building and Apartment & Apartment with Owner
 
-# upgrade_buildings
-# buildings_upgrade
-# buildings_api
-# buildings_owners_api
-# studetsandcourses
-# studetsandcourses
+
